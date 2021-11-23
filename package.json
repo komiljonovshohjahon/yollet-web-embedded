@@ -2,8 +2,8 @@
   "name": "yollet-web-embedded",
   "private": true,
   "scripts": {
-    "dev": "release.bat && next dev",
-    "build": "release.bat && next build",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "yollet": "release.bat"
