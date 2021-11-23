@@ -1,0 +1,1129 @@
+{
+  "approvallist": {
+    "content": {
+      "pageNo": 1,
+      "pageTotal": 2,
+      "pageSize": 10,
+      "itemCount": 16,
+      "amountSum": 2301248384,
+      "approvalList": [
+        {
+          "transactionId": "07005A94EC5C004732423432",
+          "businessRegistrationNo": "12312353",
+          "paymentMethodCode": "4001",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0048324324",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4002",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0049234234",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4003",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C004545654",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4004",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C00450-7897889",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4005",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C004578978",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4006",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4007",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4008",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4009",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "4000",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        },
+        {
+          "transactionId": "07005A94EC5C0045",
+          "businessRegistrationNo": "123456",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211003135520",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "3456*****567",
+          "approvalNo": "0000001",
+          "approvalAmount": 300,
+          "resultCode": "00"
+        }
+
+      ]
+    }
+  },
+  "storelist": {
+    "common": {
+      "target_svc": "admin.yoshop.net",
+      "target_package": "admin.v1",
+      "target_api": "/admin/store/list",
+      "source_svc": "YolletAdmin",
+      "source_ver": "1.0.0",
+      "source_addr": "127.0.0.1",
+      "req_timestamp": "1633410716",
+      "tran_no": "10716"
+    },
+    "content": {
+      "pageNo": 1,
+      "pageTotal": 1,
+      "pageSize": 10,
+      "itemCount": 1,
+      "storeList": [
+        {
+          "storeId": "2E0B5BD1529800851",
+          "businessRegistrationNo": "0807400199511",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800852",
+          "businessRegistrationNo": "0807400199512",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800853",
+          "businessRegistrationNo": "0807400199513",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800854",
+          "businessRegistrationNo": "0807400199514",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800855",
+          "businessRegistrationNo": "0807400199515",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800856",
+          "businessRegistrationNo": "0807400199516",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800857",
+          "businessRegistrationNo": "0807400199517",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800858",
+          "businessRegistrationNo": "0807400199518",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800859",
+          "businessRegistrationNo": "0807400199519",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        },
+        {
+          "storeId": "2E0B5BD1529800850",
+          "businessRegistrationNo": "0807400199510",
+          "storeName": "РЕСТОРАН <МАМАМИЯ>",
+          "licenseUrl": "https://dev-s3.yoshop.net/licenses/test111.pdf",
+          "loginId": "test111@dsta.com",
+          "creationTime": "20180228095940",
+          "primaryAddress": "address1",
+          "detailAddress": "address2"
+        }
+      ]
+    }
+  },
+  "settlementlist": {
+    "content": {
+      "pageNo": 1,
+      "pageTotal": 1,
+      "pageSize": 10,
+      "itemCount": 2,
+      "amountSum": 2000,
+      "settlementList": [
+        {
+          "settlementId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "expectedTransferDate": "20211002",
+          "transferDate": "20211002",
+          "transactionCount": 2,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": 990,
+          "transferMethodCode": "001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "settlementId": "2E0B5A5EE169039C",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211003120000",
+          "expectedTransferDate": "20211006",
+          "transferDate": null,
+          "transactionCount": 3,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": null,
+          "transferMethodCode": null,
+          "transferId": null
+        },
+        {
+          "settlementId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "expectedTransferDate": "20211002",
+          "transferDate": "20211002",
+          "transactionCount": 2,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": 990,
+          "transferMethodCode": "001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "settlementId": "2E0B5A5EE169039C",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211003120000",
+          "expectedTransferDate": "20211006",
+          "transferDate": null,
+          "transactionCount": 3,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": null,
+          "transferMethodCode": null,
+          "transferId": null
+        },
+        {
+          "settlementId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "expectedTransferDate": "20211002",
+          "transferDate": "20211002",
+          "transactionCount": 2,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": 990,
+          "transferMethodCode": "001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "settlementId": "2E0B5A5EE169039C",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211003120000",
+          "expectedTransferDate": "20211006",
+          "transferDate": null,
+          "transactionCount": 3,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": null,
+          "transferMethodCode": null,
+          "transferId": null
+        },
+        {
+          "settlementId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "expectedTransferDate": "20211002",
+          "transferDate": "20211002",
+          "transactionCount": 2,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": 990,
+          "transferMethodCode": "001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "settlementId": "2E0B5A5EE169039C",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211003120000",
+          "expectedTransferDate": "20211006",
+          "transferDate": null,
+          "transactionCount": 3,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": null,
+          "transferMethodCode": null,
+          "transferId": null
+        },
+        {
+          "settlementId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "expectedTransferDate": "20211002",
+          "transferDate": "20211002",
+          "transactionCount": 2,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": 990,
+          "transferMethodCode": "001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "settlementId": "2E0B5A5EE169039C",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211003120000",
+          "expectedTransferDate": "20211006",
+          "transferDate": null,
+          "transactionCount": 3,
+          "approvalAmountSum": 1000,
+          "commissionSum": 10,
+          "settlementTaxSum": 0,
+          "transferAmount": null,
+          "transferMethodCode": null,
+          "transferId": null
+        }
+      ]
+    }
+  },
+  "acquirementlist": {
+    "content": {
+      "pageNo": 1,
+      "pageTotal": 1,
+      "pageSize": 10,
+      "itemCount": 2,
+      "amountSum": 5000,
+      "acquirementList": [
+        {
+          "transactionId": "2E0B5A9659830636",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211001121012",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000001",
+          "approvalAmount": 2000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5B42CDE20001",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211002131510",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000002",
+          "approvalAmount": 3000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5A9659830636",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211001121012",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000001",
+          "approvalAmount": 2000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5B42CDE20001",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211002131510",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000002",
+          "approvalAmount": 3000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5A9659830636",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211001121012",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000001",
+          "approvalAmount": 2000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5B42CDE20001",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211002131510",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000002",
+          "approvalAmount": 3000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5A9659830636",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211001121012",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000001",
+          "approvalAmount": 2000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5B42CDE20001",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211002131510",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000002",
+          "approvalAmount": 3000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5A9659830636",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211001121012",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000001",
+          "approvalAmount": 2000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        },
+        {
+          "transactionId": "2E0B5B42CDE20001",
+          "businessRegistrationNo": "1234567",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "approvalDatetime": "20211002131510",
+          "transactionType": "SA",
+          "acquirerName": "Halyk",
+          "cardNo": "12345*****121",
+          "approvalNo": "000002",
+          "approvalAmount": 3000,
+          "requestDatetime": "20211005163000",
+          "doneDatetime": null,
+          "acquirementState": "00"
+        }
+      ]
+    }
+  },
+  "transferlist": {
+    "content": {
+      "pageNo": 1,
+      "pageTotal": 1,
+      "pageSize": 20,
+      "itemCount": 1,
+      "amountSum": 1000,
+      "transferList": [
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        },
+        {
+          "transferId": "2E0B5BD17C3A053A",
+          "businessRegistrationNo": "1234567",
+          "transferMethodCode": "001",
+          "transferMethodName": "Bank Transfer",
+          "registeredTransferDatetime": "20211002120000",
+          "transferState": "40",
+          "transferDatetime": "20211002123000",
+          "transferAmount": 1000,
+          "depositBankName": "Halyk Bank",
+          "depositAccountNo": "123456789",
+          "updateDatetime": "2021100212350000"
+        }
+      ]
+    }
+  },
+  "settlementdetaillist": {
+    "content": {
+      "pageNo": 1,
+      "pageTotal": 1,
+      "pageSize": 10,
+      "itemCount": 2,
+      "amountSum": 1000,
+      "transactionList": [
+        {
+          "transactionId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001093020",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 400,
+          "commission": 4,
+          "settlementTax": 0,
+          "transferAmount": 396,
+          "orderId": "00000001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE21E0567",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001101000",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 600,
+          "commission": 6,
+          "settlementTax": 0,
+          "transferAmount": 594,
+          "orderId": "00000002",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001093020",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 400,
+          "commission": 4,
+          "settlementTax": 0,
+          "transferAmount": 396,
+          "orderId": "00000001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE21E0567",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001101000",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 600,
+          "commission": 6,
+          "settlementTax": 0,
+          "transferAmount": 594,
+          "orderId": "00000002",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001093020",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 400,
+          "commission": 4,
+          "settlementTax": 0,
+          "transferAmount": 396,
+          "orderId": "00000001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE21E0567",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001101000",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 600,
+          "commission": 6,
+          "settlementTax": 0,
+          "transferAmount": 594,
+          "orderId": "00000002",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001093020",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 400,
+          "commission": 4,
+          "settlementTax": 0,
+          "transferAmount": 396,
+          "orderId": "00000001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE21E0567",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001101000",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 600,
+          "commission": 6,
+          "settlementTax": 0,
+          "transferAmount": 594,
+          "orderId": "00000002",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE46B0C93",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001093020",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 400,
+          "commission": 4,
+          "settlementTax": 0,
+          "transferAmount": 396,
+          "orderId": "00000001",
+          "transferId": "2E0B5BD17C3A053A"
+        },
+        {
+          "transactionId": "2E0B5A5EE21E0567",
+          "businessRegistrationNo": "1234567",
+          "settlementId": "2E0B5A5EE46B0C93",
+          "paymentMethodCode": "400",
+          "paymentMethodName": "Halyk",
+          "settlementDatetime": "20211001120000",
+          "approvalDatetime": "20211001101000",
+          "acquirerCode": "01",
+          "acquirerName": "Halyk",
+          "transactionType": "SA",
+          "approvalAmount": 600,
+          "commission": 6,
+          "settlementTax": 0,
+          "transferAmount": 594,
+          "orderId": "00000002",
+          "transferId": "2E0B5BD17C3A053A"
+        }
+      ]
+    }
+  },
+  "accountlist": {
+    "content": {
+      "itemCount": 2,
+      "accountList": [
+        {
+          "accountId": "0000000000000028",
+          "accountName": "Store",
+          "holderName": "HONG",
+          "accountNo": "123456789",
+          "depositBank": "Halyk Bank",
+          "transferMethodCode": "001"
+        },
+        {
+          "accountId": "0000000000000028",
+          "accountName": "Store",
+          "holderName": "HONG",
+          "accountNo": "123456789",
+          "depositBank": "Halyk Bank",
+          "transferMethodCode": "001"
+        }
+      ]
+    }
+  },
+  "paymentmethodlist": {
+    "content": {
+      "itemCount": 3,
+      "methodList": [
+        {
+          "methodId": "001",
+          "methodName": "Cash",
+          "methodDescription": "Cash"
+        },
+        {
+          "methodId": "100",
+          "methodName": "Dummy",
+          "methodDescription": "Dymmy Card"
+        },
+        {
+          "methodId": "400",
+          "methodName": "Halyk",
+          "methodDescription": "Halyk Bank",
+          "transactionFee": 0.001
+        }
+      ]
+    }
+  },
+  "auth": {
+    "common": {
+      "targetSvc": "admin.yoshop.net",
+      "targetPackage": "admin.v1",
+      "targetApi": "/auth",
+      "sourceSvc": "YolletAdmin",
+      "sourceVer": "1.0.0",
+      "sourceAddr": "127.0.0.1",
+      "reqTimestamp": "1634185401447",
+      "tranNo": "10716"
+    },
+    "content": {
+      "token": "ksdhfiowehufhweirf89236rfuihshn9c8yqw3897rhg39oqwfu9"
+    }
+  },
+  "approvaldetails": {
+    "content": {
+      "transactionType": "SA",
+      "approvalAmount": 300,
+      "supplyValue": 273,
+      "tax": 27,
+      "tip": 0,
+      "paymentMethodCode": "400",
+      "paymentMethodName": "Halyk",
+      "approvalNo": "0000001",
+      "cardNo": "3456*****567",
+      "terminalId": "02292802",
+      "approvalDatetime": "20211003135520",
+      "rrn": "12342122",
+      "store": {
+        "storeName": "Демо дүкені",
+        "ownerName": "HONG",
+        "businessRegistrationNo": "123456",
+        "telNo": "02-1234-5678",
+        "primaryAddress": "address1",
+        "detailAddress": "address2"
+      }
+    }
+  },
+  "paymentmethodglobal":{
+    "content": [
+      {
+        "code": "001",
+        "name": "Cash"
+      },
+      {
+        "code": "100",
+        "name": "DUMMY"
+      },
+      {
+        "code": "400",
+        "name": "Halyk"
+      },
+      {
+        "code": "KZT100",
+        "name": "KKM(WebKassa)"
+      },
+      {
+        "code": "KZB201",
+        "name": "Halyk QR"
+      }
+    ]
+  },
+  "transferdetail":
+  {
+    "content": {
+      "transferState": "40",
+      "depositAmount": 1000,
+      "transferDatetime": "20211002123000",
+      "deposit": {
+        "storeId": "2E0B5BD152980085",
+        "storeName": "РЕСТОРАН <МАМАМИЯ>",
+        "businessRegistrationNo": "1234567",
+        "bankName": "Halyk Bank",
+        "accontNo": "123456789"
+      },
+      "withdrawal": {
+        "senderName": "ibexlab",
+        "businessRegistrationNo": "0000000",
+        "bankName": "Halyk Bank",
+        "accountNo": "987654321"
+      }
+    }
+  },
+"domainlist":
+{
+  "content": [
+    "yoshop.net"
+  ]
+}
+}

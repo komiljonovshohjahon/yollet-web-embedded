@@ -1,0 +1,64 @@
+name: yollet_web
+description: A new Flutter project.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  dropdown_below: ^1.0.0
+  redux: ^5.0.0
+  flutter_redux: ^0.8.2
+  dio: ^4.0.0
+  heroicons: ^0.3.0
+  hovering: ^1.0.4
+  json_annotation: ^4.1.0
+  intl: ^0.17.0
+  excel: any
+  regexpattern: ^2.0.1
+  routemaster: ^0.9.5
+  file_picker: ^4.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.4
+  build_runner: ^2.1.2
+  json_serializable: ^5.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/font/
+    - assets/icons/
+
+  fonts:
+    - family: AntIcon
+      fonts:
+        - asset: assets/font/AntIcon.ttf
+
+    - family: NotoSansRegular
+      fonts:
+        - asset: assets/font/NotoSans-Regular-add-kr.ttf
+
+    - family: NotoSansMedium
+      fonts:
+        - asset: assets/font/NotoSans-Medium-add-kr.ttf
+
+    - family: NotoSansSemiBold
+      fonts:
+        - asset: assets/font/NotoSans-SemiBold-add-kr.ttf
+
+    - family: NotoSansBold
+      fonts:
+        - asset: assets/font/NotoSans-Bold-add-kr.ttf

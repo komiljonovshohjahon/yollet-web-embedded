@@ -2,10 +2,11 @@
   "name": "yollet-web-embedded",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "release.bat && next dev",
+    "build": "release.bat && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "yollet": "release.bat"
   },
   "dependencies": {
     "next": "12.0.4",

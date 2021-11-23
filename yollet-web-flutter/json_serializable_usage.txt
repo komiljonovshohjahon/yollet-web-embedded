@@ -1,0 +1,12 @@
+JSON → object
+
+String rawJson = '{"name":"Mary","age":30}';
+Map<String, dynamic> map = jsonDecode(rawJson);
+Person person = Person.fromJson(map);
+
+
+Object → JSON
+
+Person person = Person('Mary', 30);
+Map<String, dynamic> map = person.toJson();
+String rawJson = jsonEncode(map);

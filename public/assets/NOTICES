@@ -1907,6 +1907,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 async
 cli_util
+mime
 
 Copyright 2015, the Dart project authors. 
 
@@ -5173,7 +5174,6 @@ fake_async
    limitations under the License.
 --------------------------------------------------------------------------------
 collection
-mime
 stream_channel
 typed_data
 
@@ -10678,7 +10678,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 json_annotation
 json_serializable
-pedantic
 stream_transform
 term_glyph
 

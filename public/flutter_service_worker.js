@@ -27,7 +27,7 @@ const RESOURCES = {
 "assets/assets/images/not_found.png": "342401051c30077db76b9fc118070f55",
 "assets/FontManifest.json": "ee6fbfdd32088da5c02a1a0129b673b9",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "cc56ca0874570570c2cfed68623f42bc",
+"assets/NOTICES": "b67c3b61492978c45ca5100b9421ce44",
 "assets/packages/heroicons/assets/outline/academic-cap.svg": "df99206ea401345cc78ce30a9faabfa8",
 "assets/packages/heroicons/assets/outline/adjustments.svg": "914090a135646c8bbf9c13bcb585a2c9",
 "assets/packages/heroicons/assets/outline/annotation.svg": "339e5a5b0dc354dab722f1e837489682",
@@ -494,9 +494,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1e1778f1a59631e76acd42bf49d2135d",
-"/": "1e1778f1a59631e76acd42bf49d2135d",
-"main.dart.js": "3416a99324cafee1dafaadd34747f064",
+"index.html": "03a04d5f66eaf33955a32585eaff4f79",
+"/": "03a04d5f66eaf33955a32585eaff4f79",
+"main.dart.js": "6ffeefb216c2868a793cc66b97c5a1b2",
 "manifest.json": "96a809ecf7f9ed7d64fdee40933aaf7b",
 "version.json": "3c8b82be60e3a2f711c2e0b5e790015e"
 };
