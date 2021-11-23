@@ -22,8 +22,8 @@ class _LoginPageState extends State<LoginPage> {
   String? _domainError;
   List<String>? domainList = [];
 
-  TextEditingController idController = TextEditingController(text: 'chkreal');
-  TextEditingController pwController = TextEditingController(text: '1111');
+  TextEditingController idController = TextEditingController();
+  TextEditingController pwController = TextEditingController();
   String? id;
   String? pw;
   String? dpValue;
