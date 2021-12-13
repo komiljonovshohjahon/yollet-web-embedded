@@ -1,4 +1,5 @@
 import "package:dio/dio.dart";
+import 'package:flutter/foundation.dart';
 
 import 'package:yollet_web/mgr/rest/interceptors/api_interceptor.dart';
 import 'package:yollet_web/mgr/rest/interceptors/logging_interceptor.dart';
@@ -97,9 +98,9 @@ class ApiClient {
   }
 
   Dio init() {
-    Dio _dio = Dio()
-      ..interceptors.add(ApiInterceptor())
-      ..interceptors.add(LoggingInterceptor());
+    Dio _dio = Dio();
+    _dio.interceptors.add(ApiInterceptor());
+    if (!kReleaseMode) _dio.interceptors.add(LoggingInterceptor());
     BaseOptions options = BaseOptions(
       baseUrl: uri,
       connectTimeout: 5000,

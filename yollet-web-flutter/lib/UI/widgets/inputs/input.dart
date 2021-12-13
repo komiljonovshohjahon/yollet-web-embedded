@@ -107,7 +107,8 @@ class _InputFormState extends State<InputForm> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Flexible(
-                child: SizedBox(
+                child: Container(
+                  decoration: BoxDecoration(boxShadow: ThemeShadows.shadowSm),
                   child: TextFormField(
                     maxLines: widget.maxlines!,
                     initialValue: widget.initValue,

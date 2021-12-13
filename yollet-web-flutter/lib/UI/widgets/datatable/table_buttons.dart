@@ -88,7 +88,7 @@ class _TableButtonsState extends State<TableButtons> {
     List<Widget> list = [];
     list.add(DefaultDropdown(
       hintText: "Show ${widget.pageSize.toString()}",
-      // value: widget.pageSize.toString(),
+      value: widget.pageSize.toString(),
       onChanged: widget.onChanged,
       size: ButtonSize.S,
       listValues: [...Constants.pageSizes.map((e) => e.toString())],

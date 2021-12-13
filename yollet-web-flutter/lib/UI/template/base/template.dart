@@ -34,7 +34,8 @@ export '../../widgets/textField/sized_text.dart';
 export '../../widgets/appbar/topbar.dart';
 export '../../widgets/sortable_table/sortable_table.dart';
 export '../../widgets/datepicker/default_date_picker.dart';
-export '../../widgets/dropdown/default_dropdown.dart';
+// export '../../widgets/dropdown/default_dropdown.dart';
+export '../../widgets/dropdown/dropdown_2.dart';
 export '../../widgets/inputs/search_field.dart';
 export '../../widgets/modals/default_modal.dart';
 

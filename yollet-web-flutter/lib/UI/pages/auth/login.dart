@@ -1,10 +1,26 @@
+import 'dart:developer';
+
 import 'package:flutter_redux/flutter_redux.dart';
+import 'package:xstate/xstate.dart' as xs;
+import 'package:yollet_web/UI/widgets/dropdown/dropdown_2.dart';
 import 'package:yollet_web/mgr/redux/action.dart';
 import 'package:yollet_web/mgr/redux/app_state.dart';
 import 'package:yollet_web/UI/template/base/template.dart';
-import 'package:yollet_web/models/serialized_models/auth/auth_model_req.dart';
 import 'package:yollet_web/models/serialized_models/model_exporter.dart';
 import 'package:yollet_web/utils/common/validators.dart';
+
+enum AuthStates {
+  IDLE,
+  LOGIN,
+  STORELIST,
+  STOREDETAIL,
+}
+
+enum AuthEvents {
+  LOGIN,
+  RESOLVE,
+  REJECT,
+}
 
 class LoginPage extends StatefulWidget {
   const LoginPage();
@@ -14,6 +30,8 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
+  dynamic _current;
+
   final _formAuthKey = GlobalKey<FormState>();
 
   final Validator validator = Validator();
@@ -27,6 +45,13 @@ class _LoginPageState extends State<LoginPage> {
   String? id;
   String? pw;
   String? dpValue;
+
+  @override
+  void initState() {
+    super.initState();
+    // machine.start(initial: ['not_loaded']); // not_loaded
+    // _initMachine();
+  }
 
   @override
   void dispose() {
@@ -124,9 +149,7 @@ class _LoginPageState extends State<LoginPage> {
                         DefaultButton(
                           isExpanded: true,
                           text: 'login',
-                          onPressed: () {
-                            onLogin(state);
-                          },
+                          onPressed: onLogin,
                           sizeOfButton: ButtonSize.M,
                           variant: ButtonVariant.PRIMARY,
                         ),
@@ -174,7 +197,10 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-  onLogin(AppState state) async {
+  onLogin() async {
+    // machine.transition('not_loaded', 'INSERT_CD'); // loaded.stopped
+    // machine.transition('loaded.paused', 'EJECT'); // not_loaded
+    // loginState.enter();
     if (_formAuthKey.currentState!.validate()) {
       if (validator.validateDomain(dpValue, () {
             setState(() {
@@ -199,4 +225,104 @@ class _LoginPageState extends State<LoginPage> {
       }
     }
   }
+
+  // _initMachine() {
+  //   loginState.addTransition(SM.EntryTransition(() async {
+  //     log('I am in Login State');
+  //
+  //     if (_formAuthKey.currentState!.validate()) {
+  //       if (validator.validateDomain(dpValue, () {
+  //             setState(() {
+  //               _domainError = 'domain_must_be_selected';
+  //             });
+  //           }) ==
+  //           null) {
+  //         setState(() {
+  //           id = idController.text;
+  //           pw = pwController.text;
+  //         });
+  //         _validate = true;
+  //         AuthRes? tokenRes = await appStore.dispatch(GetJwtTokenAction(
+  //             authReq: AuthReq(domain: dpValue!, id: id!, password: pw!)));
+  //         if (tokenRes != null) {
+  //           AuthInfoRes? authInfoRes =
+  //               await appStore.dispatch(GetAuthInfoAction());
+  //           storeListState.enter();
+  //         }
+  //         setState(() {
+  //           _validate = false;
+  //         });
+  //       }
+  //     }
+  //   }));
+  //   storeListState.addTransition(SM.EntryTransition(() {
+  //     log('I am in Store List State');
+  //   }));
+  //
+  //   // idleState.onEntry(() {
+  //   //   log('I am in Idle State');
+  //   //
+  //   //   loginState.enter();
+  //   //
+  //   //   // appStore.dispatch(action);
+  //   // });
+  //   //
+  //   // loginState.onEntry(() async {
+  //   //   log('I am in Login State');
+  //   //   onLogin();
+  //   //   _getRole().enter();
+  //   // });
+  //   //
+  //   // storeListState.onEntry(() {
+  //   //   appStore.dispatch(NavigateToAction(to: AppRoutes.RouteToStoreList));
+  //   //   log('I am in Store List State');
+  //   //   // loginState.enter();
+  //   // });
+  //   //
+  //   // storeDetailState.onEntry(() {
+  //   //   appStore.dispatch(NavigateToAction(to: AppRoutes.RouteToStoreBasic));
+  //   //   log('I am in Store Detail State');
+  //   //   // loginState.enter();
+  //   // });
+  // }
 }
+
+//
+final machine = xs.Machine.fromJson({
+  "key": "cd",
+  "initial": "not_loaded",
+  "states": {
+    "not_loaded": {
+      "on": {"INSERT_CD": "loaded"},
+    },
+    "loaded": {
+      "initial": "stopped",
+      "on": {"EJECT": "not_loaded"},
+      "states": {
+        "stopped": {
+          "on": {"PLAY": "playing"}
+        },
+        "playing": {
+          "on": {
+            "STOP": "stopped",
+            "EXPIRED_END": "stopped",
+            "EXPIRED_MID": "playing",
+            "PAUSE": "paused"
+          }
+        },
+        "paused": {
+          "initial": "not_blank",
+          "states": {
+            "blank": {
+              "on": {"TIMER": "not_blank"}
+            },
+            "not_blank": {
+              "on": {"TIMER": "blank"}
+            }
+          },
+          "on": {"PAUSE": "playing", "PLAY": "playing", "STOP": "stopped"}
+        }
+      }
+    }
+  }
+});

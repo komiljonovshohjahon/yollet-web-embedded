@@ -13,10 +13,11 @@ import 'mgr/redux/app_state.dart';
 import 'dart:developer' as developer;
 
 RoutemasterDelegate RouteNavigator = RoutemasterDelegate(
-    observers: [AppRouterObserver()],
-    routesBuilder: (context) {
-      return RouteNavigatorLoggedOutDestinations;
-    });
+  observers: [AppRouterObserver()],
+  routesBuilder: (context) {
+    return RouteNavigatorLoggedOutDestinations;
+  },
+);
 
 class YolletWeb extends StatefulWidget {
   const YolletWeb({Key? key}) : super(key: key);
