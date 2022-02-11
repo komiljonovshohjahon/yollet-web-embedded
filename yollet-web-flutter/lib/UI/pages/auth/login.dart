@@ -76,6 +76,16 @@ class _LoginPageState extends State<LoginPage> {
         }
       },
       builder: (context, state) {
+        if (ResponsiveWidget.isSmallScreen(context) ||
+            ResponsiveWidget.isMediumScreen(context)) {
+          return Center(
+            child: Image.asset(
+              'assets/images/coming_soon.png',
+              height: 300,
+            ),
+          );
+        }
+
         return Scaffold(
           backgroundColor: ThemeColors.coolgray100,
           body: Center(

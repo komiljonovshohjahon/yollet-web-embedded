@@ -32,14 +32,7 @@ class SiteLayout extends StatelessWidget {
               ),
             ),
             mediumScreen: MediumScreen(body),
-            smallScreen: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              child: Column(
-                children: const [
-                  Text('Test Small screen'),
-                ],
-              ),
-            )),
+            smallScreen: Text('Test Small screen')),
       ),
     );
   }

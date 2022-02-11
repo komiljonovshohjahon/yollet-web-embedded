@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d6de3e3c9e323ad01523546cf363c294",
+  "assets/AssetManifest.json": "bde9f8fdda798e0709a38926dba6e06e",
 "assets/assets/font/AntIcon.ttf": "465cee7dbbf22ebd70e0c580f9affd07",
 "assets/assets/font/NotoSans-Black-add-kr.ttf": "1bda932ac85062531875f2ed56fd3a37",
 "assets/assets/font/NotoSans-Bold-add-kr.ttf": "b0c8349c940b878ec509a64c58338d48",
@@ -22,6 +22,7 @@ const RESOURCES = {
 "assets/assets/icons/yollet_logo_color.png": "c186cec6245f1dea24271b1945af64ae",
 "assets/assets/images/2.0x/flutter_logo.png": "4efb9624185aff46ca4bf5ab96496736",
 "assets/assets/images/3.0x/flutter_logo.png": "b8ead818b15b6518ac627b53376b42f2",
+"assets/assets/images/coming_soon.png": "0364bc8aac2e0b1b389f516dd3046721",
 "assets/assets/images/empty.png": "7f6267fd6d158b509531bbd979f8e253",
 "assets/assets/images/flutter_logo.png": "478970b138ad955405d4efda115125bf",
 "assets/assets/images/not_found.png": "342401051c30077db76b9fc118070f55",
@@ -494,9 +495,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "10a0caa4e81da70c7e9829bb44a57da8",
-"/": "10a0caa4e81da70c7e9829bb44a57da8",
-"main.dart.js": "4bd7d3f4b633f570a0c649e157fca34f",
+"index.html": "3e44a44eb0c842bc2571e8e40150a74d",
+"/": "3e44a44eb0c842bc2571e8e40150a74d",
+"main.dart.js": "3aba3ebecd9853b0f0e8eccf89a54db5",
 "manifest.json": "96a809ecf7f9ed7d64fdee40933aaf7b",
 "version.json": "3c8b82be60e3a2f711c2e0b5e790015e"
 };
